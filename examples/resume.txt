@@ -1,0 +1,1 @@
+Data analyst with 4 years of experience building dashboards in SQL and Python. Built churn model using XGBoost, improved retention by 7%. Comfortable with experimentation, A/B tests, stakeholder communication, and ETL automation.
